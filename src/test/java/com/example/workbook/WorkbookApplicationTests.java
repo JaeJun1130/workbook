@@ -16,6 +16,7 @@ class WorkbookApplicationTests {
         Stream<String> stream = Arrays.stream(arr,1,3);
 
         //새롭게 생김1234
+        //푸시후 재커밋
         List<String> list = Arrays.asList("a","b","c");
     }
 
