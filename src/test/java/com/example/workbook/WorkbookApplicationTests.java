@@ -15,7 +15,7 @@ class WorkbookApplicationTests {
         String[] arr = new String[]{"a","b","c"};
         Stream<String> stream = Arrays.stream(arr,1,3);
 
-        //새롭게 생김
+        //새롭게 생김1234
         List<String> list = Arrays.asList("a","b","c");
     }
 
